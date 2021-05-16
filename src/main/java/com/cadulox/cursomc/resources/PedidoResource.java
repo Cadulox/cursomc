@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.cadulox.cursomc.domain.Categoria;
 import com.cadulox.cursomc.domain.Pedido;
-import com.cadulox.cursomc.dtos.CategoriaDTO;
 import com.cadulox.cursomc.services.PedidoService;
 
 
