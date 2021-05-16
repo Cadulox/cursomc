@@ -11,7 +11,6 @@ import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.cadulox.cursomc.domain.Cliente;
-import com.cadulox.cursomc.domain.Cliente;
 import com.cadulox.cursomc.dtos.ClienteDTO;
 import com.cadulox.cursomc.repositories.ClienteRepository;
 import com.cadulox.cursomc.services.exceptions.DataIntegrityException;
